@@ -224,7 +224,7 @@ struct fimc_is_core {
 	struct fimc_is_interface		interface;
 
 	struct fimc_is_device_preproc		preproc;
-	struct fimc_is_device_sensor		sensor[FIMC_IS_SENSOR_COUNT];
+	struct fimc_is_device_sensor		sensor[7];
 	struct fimc_is_device_ischain		ischain[FIMC_IS_STREAM_COUNT];
 #ifndef ENABLE_IS_CORE
 	struct fimc_is_hardware			hardware;
