@@ -9,6 +9,8 @@ dtb-y += exynos7870-m10lte_swa_open_01.dtb
 dtb-y += exynos7870-m10lte_swa_open_02.dtb
 dtb-y += exynos7870-m10lte_swa_open_03.dtb
 dtb-y += exynos7870-m10lte_swa_open_04.dtb
+dtb-y += exynos7870-m10lte_sea_open_03.dtb
+dtb-y += exynos7870-m10lte_sea_open_04.dtb
 
 targets += dtbs
 
